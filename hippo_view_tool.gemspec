@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Simple gem for displaying copyright data at the view layer.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = "No homepage yet"
+  spec.homepage      = "https://github.com/mrMikHippo/hippo_view_tool"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
