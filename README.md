@@ -22,6 +22,8 @@ Or install it yourself as:
 
 ```ruby
 HippoViewTool::Renderer.copyright 'mr Mik Hippo', 'All rights reserved'
+or
+HippoViewTool::Renderer.copyright "2019", 'mr Mik Hippo', 'All rights reserved'
 ```
 
 ## Development
